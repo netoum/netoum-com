@@ -36,6 +36,8 @@
  */
 
 .xterm {
+    height: 100vh!important;
+    cursor: text;
     position: relative;
     user-select: none;
     -ms-user-select: none;
@@ -99,6 +101,8 @@
     left: 0;
     top: 0;
     bottom: 0;
+    height: 100vh!important;
+
 }
 
 .xterm .xterm-screen {
