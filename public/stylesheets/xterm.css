@@ -36,12 +36,12 @@
  */
 
 .xterm {
+    height: 100vh!important;
     cursor: text;
     position: relative;
     user-select: none;
     -ms-user-select: none;
     -webkit-user-select: none;
-    height: 100vh;
 }
 
 .xterm.focus,
